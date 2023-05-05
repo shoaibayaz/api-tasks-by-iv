@@ -1,6 +1,6 @@
 <?php
 
-class ConstructionStagesCreate extends ConstructionStagesValidation
+class ConstructionStagesUpdate extends ConstructionStagesValidation
 {
 	public $name;
 	public $startDate;
